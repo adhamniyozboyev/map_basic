@@ -6,7 +6,7 @@ Return the variable.
 */
 
 Map func() {
-  Map data={1:'one',2:'two'};
+  Map data={1:'one',2:'two',4:'four'};
   data[3]='three';
   return  data;
 }
